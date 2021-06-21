@@ -1,3 +1,2 @@
-
 for i in range(3):
-    print("Hello Image Yuve")
+  print("Hello Image Yuve")
