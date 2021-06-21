@@ -1,3 +1,3 @@
 
-for i in range(13):
+for i in range(12):
     print("Hello Image Yuve")
