@@ -1,2 +1,4 @@
-for i in range(3):
-  print("Hello Image Yuve")
+
+for i in range(9):
+    print("Hello Image Yuve")
+
